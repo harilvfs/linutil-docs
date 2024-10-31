@@ -29,9 +29,8 @@ jobs:
     steps:
       - name: Checkout sources
         uses: actions/checkout@v4
-
-      - name: Clone Linutil repository
-        run: git clone https://github.com/ChrisTitusTech/linutil.git
+        with:
+          submodules: true
 
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable

@@ -72,7 +72,7 @@ Note that crates installed using `cargo install` require manual updating with `c
 
 After you've ran the command, you should see a GUI on your screen; It will look something like this:
 
-![preview](assets/preview.gif)
+![preview](/images/preview.gif)
 
 > [!INFO]
 LinUtil is updated weekly as of the time of writing. Consequently, features and functionalities may evolve, and the documentation may not always reflect the most current images or information.

@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'LinUtil Docs'
+theme = 'relearn'
+
+[params]
+  themeVariant = ['relearn-light', 'relearn-dark']
+  linkTitle = 'Relearn'

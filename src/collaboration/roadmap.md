@@ -1,9 +1,4 @@
-+++
-date = '2024-10-31T18:29:15Z'
-title = 'Roadmap'
-+++
-
-# Roadmap
+# RoadMap
 
 ## Vision
 - To simplify linux tasks for all users for all distributions; Easily, efficiently, and effortlessly.
@@ -30,3 +25,4 @@ title = 'Roadmap'
 
 ## Community Feedback
 - Encourage community input and suggestions for future development.
+

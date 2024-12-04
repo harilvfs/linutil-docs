@@ -1,4 +1,7 @@
-## 🏅 Thanks to All Contributors
+<br>
+<img src="../assets/contributors.png" width="50">
+
+# 🏅 Thanks to All Contributors
 
 Thank you to everyone who has contributed to the development of Linutil. Your efforts are greatly appreciated, and you’re helping make this tool better for everyone!
 

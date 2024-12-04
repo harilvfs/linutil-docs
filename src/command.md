@@ -1,8 +1,8 @@
-# Command Line Tool
+# CLI Arguments
 
-### CLI arguments
+<img src="./assets/script.png" width="50">
 
-Linutil supports various command-line arguments to customize its behavior. Here are some common arguments you can use:
+*Linutil supports various command-line arguments to customize its behavior. Here are some common arguments you can use:*
 
 - `-c, --config <CONFIG>` : Path to the configuration file.
 - `--override-validation` : Show all available options, disregarding compatibility checks (UNSAFE).

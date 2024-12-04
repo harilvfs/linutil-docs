@@ -1,5 +1,7 @@
 # Code of Conduct
 
+<img src="../assets/code-of-conduct.png" width="50">
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

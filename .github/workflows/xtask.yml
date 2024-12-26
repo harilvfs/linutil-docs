@@ -1,22 +1,7 @@
 name: XTasks
 
 on:
-  pull_request:
-    paths:
-      - "xtask"
-      - "Cargo.toml"
-      - "Cargo.lock"
-      - ".cargo"
-      - "core/tabs"
-      - "docs"
-  push:
-    paths:
-      - "xtask"
-      - "Cargo.toml"
-      - "Cargo.lock"
-      - ".cargo"
-      - "core/tabs"
-      - "docs"
+  workflow_dispatch:
 
 env:
   CARGO_TERM_COLOR: always

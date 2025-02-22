@@ -15,7 +15,7 @@ seo:
 ---
 
 
-<img src="/images/contribute.png" width="50">
+<img src="https://harilvfs.github.io/linutil-docs/images/contribute.png" width="50">
 
 <br> 
 

@@ -14,7 +14,8 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-<img src="/images/script.png" width="50">
+<img src="https://harilvfs.github.io/linutil-docs/images/script.png" width="50">
+
 
 *Linutil supports various command-line arguments to customize its behavior. Here are some common arguments you can use:*
 

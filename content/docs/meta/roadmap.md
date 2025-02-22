@@ -15,7 +15,7 @@ seo:
 ---
 
 
-<img src="/images/roadmap.png" width="50">
+<img src="https://harilvfs.github.io/linutil-docs/images/roadmap.png" width="50">
 
 ## Vision
 - To simplify linux tasks for all users for all distributions; Easily, efficiently, and effortlessly.

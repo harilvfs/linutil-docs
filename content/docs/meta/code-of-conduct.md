@@ -17,7 +17,7 @@ seo:
 
 
 
-<img src="/images/code-of-conduct.png" width="50">
+<img src="https://harilvfs.github.io/linutil-docs/images/code-of-conduct.png" width="50">
 
 ## Our Pledge
 

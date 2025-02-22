@@ -15,7 +15,8 @@ seo:
 ---
 
 <br>
-<img src="/images/cttlogo.png" width="50">
+
+![Image](https://harilvfs.github.io/linutil-docs/images/cttlogo.png)
 
 ## Chris Titus Tech's Linux Utility
 

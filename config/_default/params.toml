@@ -12,9 +12,6 @@ mainSections = ["docs"]
 alertText = '<a target="_blank" class="alert-link stretched-link fw-normal" href="https://github.com/ChrisTitusTech/linutil/releases/tag/2025.02.13">Version 2025.02.13</a>'
 # alertText = '<strong>Cyber Sale</strong>! <a class="alert-link stretched-link text-decoration-none fw-normal" href="https://store.thulite.io/vermeer/?utm_source=doks&utm_medium=banner&utm_campaign=cyber_sale">Get Vermeer at 40% off with code <strong>THULITE40</strong></a>'
 
-# Footer
-footer = ""
-
 # Doks (@thulite/doks-core)
 [doks]
   # Color mode

@@ -1,6 +1,6 @@
 title = "Linutil"
 baseurl = "https://harilvfs.github.io/linutil-docs/"
-canonifyURLs = false
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]

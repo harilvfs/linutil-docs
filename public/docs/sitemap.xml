@@ -2,63 +2,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/docs/start-here/</loc>
+      <loc>http://localhost:1313/linutil-docs/docs/start-here/</loc>
       <lastmod>2025-02-20T12:07:17+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/docs/meta/</loc>
+      <loc>http://localhost:1313/linutil-docs/docs/meta/</loc>
       <lastmod>2025-02-23T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/docs/guides/</loc>
+      <loc>http://localhost:1313/linutil-docs/docs/guides/</loc>
       <lastmod>2025-02-21T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/docs/start-here/getting-started/</loc>
+        <loc>http://localhost:1313/linutil-docs/docs/start-here/getting-started/</loc>
         <lastmod>2025-02-20T12:07:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/start-here/installation/</loc>
+        <loc>http://localhost:1313/linutil-docs/docs/start-here/installation/</loc>
         <lastmod>2025-02-20T20:51:12+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/start-here/commands/</loc>
+        <loc>http://localhost:1313/linutil-docs/docs/start-here/commands/</loc>
         <lastmod>2023-02-20T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/meta/code-of-conduct/</loc>
+        <loc>http://localhost:1313/linutil-docs/docs/meta/code-of-conduct/</loc>
         <lastmod>2025-02-22T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/meta/contributing/</loc>
+        <loc>http://localhost:1313/linutil-docs/docs/meta/contributing/</loc>
         <lastmod>2025-02-22T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/meta/roadmap/</loc>
+        <loc>http://localhost:1313/linutil-docs/docs/meta/roadmap/</loc>
         <lastmod>2023-02-22T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/guides/user-guide/</loc>
+        <loc>http://localhost:1313/linutil-docs/docs/guides/user-guide/</loc>
         <lastmod>2025-02-21T16:04:48+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

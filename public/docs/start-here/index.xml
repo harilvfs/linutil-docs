@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Start Here on Linutil</title>
-    <link>http://localhost:1313/docs/start-here/</link>
+    <link>http://localhost:1313/linutil-docs/docs/start-here/</link>
     <description>Recent content in Start Here on Linutil</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 ChrisTitusTech</copyright>
     <lastBuildDate>Thu, 20 Feb 2025 20:51:12 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/start-here/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/linutil-docs/docs/start-here/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:1313/docs/start-here/getting-started/</link>
+      <link>http://localhost:1313/linutil-docs/docs/start-here/getting-started/</link>
       <pubDate>Thu, 20 Feb 2025 12:07:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/start-here/getting-started/</guid>
-      <description>&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/cttlogo.png&#34; width=&#34;50&#34;&gt;&#xA;&lt;h2 id=&#34;chris-titus-techs-linux-utility&#34;&gt;Chris Titus Tech&amp;rsquo;s Linux Utility&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linutil&lt;/strong&gt; is a distro-agnostic toolbox designed to simplify everyday Linux tasks. It helps users set up applications and optimize their systems for specific use cases. Developed in &lt;strong&gt;Rust&lt;/strong&gt; 🦀, Linutil delivers exceptional performance and reliability.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/linutil-docs/docs/start-here/getting-started/</guid>
+      <description>&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/linutil-docs/images/cttlogo.png&#34; width=&#34;50&#34;&gt;&#xA;&lt;h2 id=&#34;chris-titus-techs-linux-utility&#34;&gt;Chris Titus Tech&amp;rsquo;s Linux Utility&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Linutil&lt;/strong&gt; is a distro-agnostic toolbox designed to simplify everyday Linux tasks. It helps users set up applications and optimize their systems for specific use cases. Developed in &lt;strong&gt;Rust&lt;/strong&gt; 🦀, Linutil delivers exceptional performance and reliability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Installation</title>
-      <link>http://localhost:1313/docs/start-here/installation/</link>
+      <link>http://localhost:1313/linutil-docs/docs/start-here/installation/</link>
       <pubDate>Thu, 20 Feb 2025 20:51:12 +0200</pubDate>
-      <guid>http://localhost:1313/docs/start-here/installation/</guid>
+      <guid>http://localhost:1313/linutil-docs/docs/start-here/installation/</guid>
       <description>&lt;div class=&#34;callout callout-note d-flex flex-row mt-4 mb-4 pt-4 pe-4 pb-2 ps-3&#34;&gt;&#xD;&#xA;  &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;24&#34;&#xA;  height=&#34;24&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA; &#xA; class=&#34;outline/info-circle svg-inline callout-icon me-2 mb-3&#34; id=&#34;svg-info-circle&#34; role=&#34;img&#34;&gt;&#xA;  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&#xA;  &lt;path d=&#34;M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0&#34; /&gt;&#xA;  &lt;path d=&#34;M12 9h.01&#34; /&gt;&#xA;  &lt;path d=&#34;M11 12h1v4h1&#34; /&gt;&#xA;&lt;/svg&gt;&#xD;&#xA;  &lt;div class=&#34;callout-content&#34;&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;callout-body&#34;&gt;&#xD;&#xA;      &lt;p&gt;NOTE:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Commands</title>
-      <link>http://localhost:1313/docs/start-here/commands/</link>
+      <link>http://localhost:1313/linutil-docs/docs/start-here/commands/</link>
       <pubDate>Thu, 20 Feb 2025 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/start-here/commands/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/images/script.png&#34; width=&#34;50&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Linutil supports various command-line arguments to customize its behavior. Here are some common arguments you can use:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;-c, --config &amp;lt;CONFIG&amp;gt;&lt;/code&gt; : Path to the configuration file.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;--override-validation&lt;/code&gt; : Show all available options, disregarding compatibility checks (UNSAFE).&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;--size-bypass&lt;/code&gt; : Bypass the terminal size limit.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-y, --skip-confirmation&lt;/code&gt; : Skip confirmation prompt before executing commands.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-t, --theme &amp;lt;THEME&amp;gt;&lt;/code&gt; : Set the theme to use in the application [default: &lt;code&gt;default&lt;/code&gt;] [possible values: &lt;code&gt;default&lt;/code&gt;, &lt;code&gt;compatible&lt;/code&gt;].&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-h, --help&lt;/code&gt; : Print help.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detailed usage, run:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/linutil-docs/docs/start-here/commands/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/linutil-docs/images/script.png&#34; width=&#34;50&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Linutil supports various command-line arguments to customize its behavior. Here are some common arguments you can use:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;-c, --config &amp;lt;CONFIG&amp;gt;&lt;/code&gt; : Path to the configuration file.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;--override-validation&lt;/code&gt; : Show all available options, disregarding compatibility checks (UNSAFE).&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;--size-bypass&lt;/code&gt; : Bypass the terminal size limit.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-y, --skip-confirmation&lt;/code&gt; : Skip confirmation prompt before executing commands.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-t, --theme &amp;lt;THEME&amp;gt;&lt;/code&gt; : Set the theme to use in the application [default: &lt;code&gt;default&lt;/code&gt;] [possible values: &lt;code&gt;default&lt;/code&gt;, &lt;code&gt;compatible&lt;/code&gt;].&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-h, --help&lt;/code&gt; : Print help.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more detailed usage, run:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

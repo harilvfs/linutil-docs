@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/aayush/Documents/GitHub/linutil-docs/docs",
+	"sourceRoot": "/home/aayush/Documents/GitHub/linutil-docs",
 	"sources": [
 		"node_modules/@thulite/doks-core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",

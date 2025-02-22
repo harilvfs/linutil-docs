@@ -1,0 +1,9 @@
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/christitustech/linutil"
+  weight = 10
+
+[[social]]
+  name = "X"
+  url = "https://x.com/christitustech"
+  weight = 30

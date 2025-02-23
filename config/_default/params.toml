@@ -6,6 +6,9 @@ images = ["cover.png"]
 # mainSections
 mainSections = ["docs"]
 
+[add_ons]
+  plausibleDomain = "https://harilvfs.github.io/linutil-docs/"
+
 # Global alert
 # alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/doks-1-6/">Doks 1.6 is out!</a>'
 # alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/doks-1-4/">Doks 1.4 is here!</a>'

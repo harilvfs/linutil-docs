@@ -1,5 +1,5 @@
 title = "Linutil"
-baseurl = "http://localhost/"
+baseurl = "https://harilvfs.github.io/linutil-docs/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

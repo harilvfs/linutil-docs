@@ -31,10 +31,12 @@ Thank you to Hugo and the developer for this amazing documentation theme, but im
 A more detailed guide for troubleshooting and modifying the theme would be greatly beneficial.
 
 It would be awesome if the developers took note of this.  
-And again, no hate—this theme is great, but whether it's a **skill issue** on my end or a limitation of the theme, I couldn't achieve what I wanted. :(
+And again, no hate—this theme is great, but whether it's a **skill issue** on my end or a limitation of the theme, I couldn't achieve what I wanted :(
 
 <div align="center">
 Made with love using Hugo ❤️
+
+<br>
 
 [![GitHub Actions Build Status][check]][link]
 

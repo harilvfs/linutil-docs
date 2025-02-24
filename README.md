@@ -35,11 +35,11 @@ And again, no hate—this theme is great, but whether it's a **skill issue** on 
 
 <div align="center">
 Made with love using Hugo ❤️
+</div>
 
-<br>
-
+<div align="center">
+  
 [![GitHub Actions Build Status][check]][link]
-
 </div>
 
 [check]: https://github.com/harilvfs/linutil-docs/actions/workflows/deploy.yml/badge.svg  

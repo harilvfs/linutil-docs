@@ -37,6 +37,8 @@ And again, no hate—this theme is great, but whether it's a **skill issue** on 
 Made with love using Hugo ❤️
 </div>
 
+<br>
+
 <div align="center">
   
 [![GitHub Actions Build Status][check]][link]

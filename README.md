@@ -2,10 +2,11 @@
   
 ## Built with [Hugo](https://gohugo.io/) 🌐
 
-
 <p> Hugo is a fast and flexible static site generator designed for building modern websites, particularly documentation sites, blogs, and portfolios with ease. </p>
 
 </div>
+
+<br>
 
 > [!NOTE]
 > As you can see, this is a fork of Linutil Docs. However, this site or repository is **not** intended for **official Linutil documentation**.  

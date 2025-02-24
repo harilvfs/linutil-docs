@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Built with Hugo</h2>
+<h2>Built with Hugo 🌐</h2>
 </div>
 
 Hugo is a fast and flexible static site generator designed for building modern websites, particularly documentation sites, blogs, and portfolios with ease.
@@ -31,9 +31,10 @@ And again, no hate—this theme is great, but whether it's a **skill issue** on 
 
 <div align="center">
 Made with love using Hugo ❤️
-</div>
 
 [![GitHub Actions Build Status][check]][link]
+
+</div>
 
 [check]: https://github.com/harilvfs/linutil-docs/actions/workflows/deploy.yml/badge.svg  
 [link]: https://github.com/harilvfs/linutil-docs/actions/workflows/deploy.yml

@@ -1,5 +1,6 @@
 <div align="center">
-<h2>Built with Hugo 🌐</h2>
+  
+## Built with [Hugo](https://gohugo.io/) 🌐
 </div>
 
 [Hugo](https://gohugo.io/) is a fast and flexible static site generator designed for building modern websites, particularly documentation sites, blogs, and portfolios with ease.
